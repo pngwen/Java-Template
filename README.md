@@ -1,2 +1,2 @@
-# CPP-Starter-Template
-This is my starter template for C++ repositories for my CSCI classes.
+# Java-Starter-Template
+This is my starter template for Java repositories for my CSCI classes.

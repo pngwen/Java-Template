@@ -49,3 +49,6 @@
 *.dwo
 
 .vscode
+
+*.class
+*.jar
